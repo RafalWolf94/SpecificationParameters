@@ -1,0 +1,12 @@
+D:\Rafal\Opo\SpecificationParameters\SpecificationParameters\bin\Debug\SpecificationParameters.dll.config
+D:\Rafal\Opo\SpecificationParameters\SpecificationParameters\bin\Debug\SpecificationParameters.dll
+D:\Rafal\Opo\SpecificationParameters\SpecificationParameters\bin\Debug\SpecificationParameters.pdb
+D:\Rafal\Opo\SpecificationParameters\SpecificationParameters\bin\Debug\EntityFramework.dll
+D:\Rafal\Opo\SpecificationParameters\SpecificationParameters\bin\Debug\EntityFramework.SqlServer.dll
+D:\Rafal\Opo\SpecificationParameters\SpecificationParameters\bin\Debug\EntityFramework.xml
+D:\Rafal\Opo\SpecificationParameters\SpecificationParameters\bin\Debug\EntityFramework.SqlServer.xml
+D:\Rafal\Opo\SpecificationParameters\SpecificationParameters\obj\Debug\SpecificationParameters.csproj.AssemblyReference.cache
+D:\Rafal\Opo\SpecificationParameters\SpecificationParameters\obj\Debug\SpecificationParameters.csproj.CoreCompileInputs.cache
+D:\Rafal\Opo\SpecificationParameters\SpecificationParameters\obj\Debug\SpecificationParameters.csproj.CopyComplete
+D:\Rafal\Opo\SpecificationParameters\SpecificationParameters\obj\Debug\SpecificationParameters.dll
+D:\Rafal\Opo\SpecificationParameters\SpecificationParameters\obj\Debug\SpecificationParameters.pdb
